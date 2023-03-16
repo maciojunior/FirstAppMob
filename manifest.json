@@ -1,0 +1,63 @@
+{
+  "name": "PWA Teste",
+  "short_name": "PWA Teste",
+  "icons": [
+    {
+      "src": "images/icon_16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_20.png",
+      "sizes": "20x20",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_29.png",
+      "sizes": "29x29",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_58.png",
+      "sizes": "58x58",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon_92.png",
+      "sizes": "92x92",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_102.png",
+      "sizes": "102x102",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    
+
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#31506F",
+  "theme_color": "#4D5360"
+}
