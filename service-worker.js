@@ -14,7 +14,7 @@ self.addEventListener('install', event => {
 
         './assets/css/main.css',
 
-        './assets/css/noscript',
+        './assets/css/noscript.css',
 
         './assets/js/breakpoints.min.js',
         
@@ -37,7 +37,6 @@ self.addEventListener('install', event => {
         './images/icon_102.png',
         './images/icon_128.png',
         './images/icon_512.png',    
-        './images/formulas.JPG',
         './images/overlay.webp',
         './images/pic01.webp',
         './images/pic02.webp',
